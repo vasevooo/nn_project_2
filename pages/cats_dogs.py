@@ -19,11 +19,11 @@ def main():
     
     st.text("Upload an image and the classifier will determine if it's a cat or a dog.")
 
-    uploaded_file = st.file_uploader("Choose an image...", type=["jpg", "jpeg", "png"])
+    uploaded_image = st.file_uploader("Choose an image...", type=["jpg", "jpeg", "png"])
 
-    if uploaded_file is not None:
+    if uploaded_image is not None:
         # Read the image file
-        image = Image.open(uploaded_file)
+        image = Image.open(uploaded_image)
         st.image(image, caption="Uploaded Image", use_column_width=True)
         
         img_tensor = preprocess_image(image)
