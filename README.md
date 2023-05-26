@@ -2,9 +2,10 @@
 
 **Участники команды:**
 
-Василий Севостьянов
-Анна Филина
-Вероника Красикова.
+1. Василий Севостьянов
+2. Анна Филина
+3. Вероника Красикова.
+
 Нашей команде была поставлена задача разработать мультиприложение на базе Streamlit. Функциональность приложения предполагала следующий сценарий: пользователь открывает приложение, выбирает одну из моделей классификации, а затем получает предсказанный класс для загруженного изображения. Вдохновившись гибкими методами управления проектами, такими как SCRUM и Agile, мы решили распределить модели нейронных сетей между участниками команды, а затем объединить код в единое приложение на финальном этапе.
 
 **Распределение моделей между участниками команды выглядит следующим образом:**
@@ -18,9 +19,10 @@
 
 **Team Members:**
 
-Vasiliy Sevostyanov
-Anna Filina
-Veronika Krasikova
+1. Vasiliy Sevostyanov
+2. Anna Filina
+3. Veronika Krasikova
+
 Our team's task was to develop a multi-application using Streamlit. The functionality of the application was designed as follows: the user opens the application, selects one of the classification models, and receives the predicted class of the uploaded image. Taking inspiration from agile project management methodologies such as Scrum and Agile, we decided to distribute the neural network models among team members and merge the code into a single application in the final stage.
 
 **The distribution of models among team members is as follows:**
