@@ -1,14 +1,20 @@
-**Проект группы Convolution.**
+# Проект: классификация изображений с помощью нейросетей
 
-**Участники команды:**
+**Цель проекта:** разработать multipage-приложение на базе Streamlit, которое предсказывает класс загруженного изображения с помощью одной из нейросетей. 
+
+**Использованные инструменты:**
+1. Модели: Inception, ResNet
+2. Деплоймент: Streamlit
+
+[Ссылка](https://vasevooo-nn-project-2-main-app-agw3ls.streamlit.app/cats_dogs) на проект 
+
+## **Участники команды:**
 
 1. Василий Севостьянов
 2. Анна Филина
 3. Вероника Красикова.
 
-Нашей команде была поставлена задача разработать мультиприложение на базе Streamlit. Функциональность приложения предполагала следующий сценарий: пользователь открывает приложение, выбирает одну из моделей классификации, а затем получает предсказанный класс для загруженного изображения. Вдохновившись гибкими методами управления проектами, такими как SCRUM и Agile, мы решили распределить модели нейронных сетей между участниками команды, а затем объединить код в единое приложение на финальном этапе.
-
-**Распределение моделей между участниками команды выглядит следующим образом:**
+## **Распределение моделей и задач между участниками команды выглядит следующим образом:**
 
  - Анна Филина: Классификация произвольных изображений с использованием модели Inception. 
  - Василий Севостьянов: Классификация изображений кошек и собак с помощью предобученной модели ResNet.
@@ -16,21 +22,27 @@
 
 Благодаря такой схеме работы мы успешно завершили задачу в назначенные сроки и достигли высокой точности предсказаний для каждой модели. Несмотря на возникающие трудности (ведь они неминуемы в работе и творчестве), этот проект стал для нас приятным опытом работы в команде.
 
-**Team Convolution Group Project**
+# Project: Image Classification Using Neural Networks
 
-**Team Members:**
+**Project Objective:** Develop a multipage application using Streamlit that predicts the class of the uploaded image using a neural network.
 
-1. Vasiliy Sevostyanov
+**Tools Used:**
+1. Models: Inception, ResNet
+2. Deployment: Streamlit
+
+[Link](https://vasevooo-nn-project-2-main-app-agw3ls.streamlit.app/cats_dogs) to the project
+
+## **Team Members:**
+
+1. Vasily Sevostyanov
 2. Anna Filina
-3. Veronika Krasikova
+3. Veronika Krasikova.
 
-Our team's task was to develop a multi-application using Streamlit. The functionality of the application was designed as follows: the user opens the application, selects one of the classification models, and receives the predicted class of the uploaded image. Taking inspiration from agile project management methodologies such as Scrum and Agile, we decided to distribute the neural network models among team members and merge the code into a single application in the final stage.
+## **Distribution of Models and Tasks Among Team Members:**
 
-**The distribution of models among team members is as follows:**
+- Anna Filina: Classification of arbitrary images using the Inception model.
+- Vasily Sevostyanov: Classification of cat and dog images using a pre-trained ResNet model.
+- Veronika Krasikova: Classification of skin diseases using the ResNet model and further fine-tuning.
 
- - Anna Filina: Classification of arbitrary images using the Inception
-   model. 
- - Vasiliy Sevostyanov: Classification of cat and dog images using the pretrained ResNet model. 
- - Veronika Krasikova: Classification of skin diseases using the ResNet model and its further fine-tuning.
+Thanks to this working scheme, we successfully completed the task within the assigned deadlines and achieved high accuracy in predictions for each model. Despite the challenges that arise (as they are inevitable in work and creativity), this project has been a pleasant team working experience.
 
-By adopting this collaboration approach, we successfully completed the task within the designated timeframe and achieved high prediction accuracy for each model. Despite the challenges encountered along the way (as they are inevitable in any work or creative endeavor), this project provided each of us with a valuable experience of teamwork.
