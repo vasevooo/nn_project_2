@@ -4,7 +4,8 @@
 
 **Использованные инструменты:**
 1. Модели: Inception, ResNet
-2. Деплоймент: Streamlit
+2. Фреймворк: PyTorhc
+3. Деплоймент: Streamlit
 
 [Ссылка](https://vasevooo-nn-project-2-main-app-agw3ls.streamlit.app/cats_dogs) на проект 
 
@@ -28,7 +29,8 @@
 
 **Tools Used:**
 1. Models: Inception, ResNet
-2. Deployment: Streamlit
+2. Framework: PyTorch
+3. Deployment: Streamlit
 
 [Link](https://vasevooo-nn-project-2-main-app-agw3ls.streamlit.app/cats_dogs) to the project
 
